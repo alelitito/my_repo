@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-f = open('C:/Users/ptito/Desktop/bsageng1b.txt','r')
+f = open('C:/Users/ptito/Desktop/bsit3b.txt','r')
 
 name_list = []
 
